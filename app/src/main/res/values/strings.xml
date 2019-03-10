@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Authentication Practice</string>
+    <string name="facebook_app_id">404278890389203</string>
+    <string name="fb_login_protocol_scheme">fb404278890389203</string>
+    <string name="twitter_api_key">t6NJ67Z1URZ2Mqj25U7AqhN6q</string>
+    <string name="twitter_api_secret">C70HE0p0Ifjlt8H9ShicmOXSMsEnSWiYz8MvGEI59TD62XK1Io</string>
+    <string name="google_web_client_id">6258587366-am9n94h6q9f1ei8ju23vkqqb6p2rl106.apps.googleusercontent.com</string>
+</resources>
